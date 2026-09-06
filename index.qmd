@@ -1,6 +1,8 @@
 ---
 title: Thomas Arocena
 image: man/figures/profile.jpg
+resources:
+  - cv.pdf
 about:
   template: solana
   image-width: 10em
@@ -17,7 +19,7 @@ about:
       href: mailto:arocena.thomas@gmail.com
     - icon: file-earmark-pdf
       text: CV
-      href: cv.pdf
+      href: https://thomas-arocena.github.io/cv.pdf
     - icon: fingerprint
       text: orcid
       href: https://orcid.org/0009-0002-7014-220X
